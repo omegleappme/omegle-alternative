@@ -1,3 +1,7 @@
+<div align="center">
+  <img style="margin:0 auto;width:120px;height:120px;" src='/logo.png' alt="Omegle app"/>
+</div>
+
 # [Best Omegle Alternative](https://omegleapp.me)
 
 Visit this [Omegle Alternative](https://omegleapp.me) to engage in random text or video chats with strangers from around the world.
